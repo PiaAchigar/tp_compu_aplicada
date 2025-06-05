@@ -69,7 +69,9 @@ Entregables
 1) Crear un repositorio en github (es gratuito), y redactar el README.md con los
 nombres de los participantes del grupo.
 2) Subir, en el repositorio creado, los directorios:
- “/root”, “/etc”, “/opt”, “/proc”, “/www_dir” y “/backup_dir”. Todos ellos
+    - “/root”, “/etc”, “/opt”, “/proc”, “/www_dir” y “/backup_dir”. Todos ellos
 comprimidos individualmente en formato “.tar.gz”.
- “/var” se lo debe splitear en partes pequeñas para que pueda ser subido.
+    - “/var” se lo debe splitear en partes pequeñas para que pueda ser subido.
 3) Realizar un diagrama topológico de la infraestructura armada.
+
+![alt text](image.png)
